@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges-404notfound.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -36,22 +36,18 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/kindnessrho/404-not-found/blob/main/CPT2104191452-1350x619.gif)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+A devchallenges.io challenge to build a [404 not found page](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) using HTML AND CSS. [Check out my solution here 👉](https://devchallenges-404notfound.netlify.app/).
+This challenge has helped to improve on using flexbox and css grid.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://html.com/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Features
 
