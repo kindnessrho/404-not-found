@@ -66,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://kindnessrho.netlify.app})
-- GitHub [@your-username](https://{github.com/kindnessrho})
-- Twitter [@your-twitter](https://{twitter.com/kindnessrho})
+- Website [kindnessrho](https://kindnessrho.netlify.app})
+- GitHub [@kindnessrho](https://{github.com/kindnessrho})
+- Twitter [@kindnessrho](https://{twitter.com/kindnessrho})
